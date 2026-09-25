@@ -42,9 +42,7 @@ A desktop contact management application built with Java Swing.
 - File Persistence
 
 ## Screenshots
-
-Add screenshots here after uploading images.
-
+![Main Screen](./Screenshot%202026-09-25%20015125.png)
 ## How to Run
 
 1. Clone the repository
