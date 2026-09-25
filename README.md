@@ -1,7 +1,6 @@
 # Contact Manager Pro
-
-A desktop contact management application built with Java Swing.
-
+ 
+A desktop contact management application built with Java Swing that allows users to manage, search, sort, and persist contacts through a graphical user interface.
 ## Features
 
 - Add contacts
@@ -42,7 +41,7 @@ A desktop contact management application built with Java Swing.
 - File Persistence
 
 ## Screenshots
- 
+ 
 <p align="center">
 <img src="Screenshot%202026-09-25%20015125.png" alt="Contact Manager Swing Contact Manager with search, sorting, deletion, and automatic file persistence.
 </p>
