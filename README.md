@@ -40,11 +40,12 @@ A desktop contact management application built with Java Swing that allows users
 - GUI Development
 - File Persistence
 
-## Screenshots
+## Demo
  
 <p align="center">
-<img src="Screenshot%202026-09-25%20015125.png" alt="Contact Manager Swing Contact Manager with search, sorting, deletion, and automatic file persistence.
+<img src="PhotoGIF_9_25_2026_12_53_10_PM.gif" alt="Contact Manager Pro demo showing add, search, sort, and delete functionality">
 </p>
+
 
 ## How to Run
 
